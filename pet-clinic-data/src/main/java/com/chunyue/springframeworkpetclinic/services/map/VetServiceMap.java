@@ -1,11 +1,11 @@
 package com.chunyue.springframeworkpetclinic.services.map;
 
 import com.chunyue.springframeworkpetclinic.model.Vet;
-import com.chunyue.springframeworkpetclinic.services.CrudService;
+import com.chunyue.springframeworkpetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
     public Set<Vet> findAll() {
