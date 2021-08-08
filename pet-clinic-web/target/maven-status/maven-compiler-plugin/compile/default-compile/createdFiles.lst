@@ -1,1 +1,5 @@
+com/chunyue/springframeworkpetclinic/controllers/IndexController.class
+com/chunyue/springframeworkpetclinic/controllers/VetController.class
+com/chunyue/springframeworkpetclinic/bootstrap/DataLoader.class
+com/chunyue/springframeworkpetclinic/controllers/OwnerController.class
 com/chunyue/springframeworkpetclinic/SpringFrameworkPetClinicApplication.class
